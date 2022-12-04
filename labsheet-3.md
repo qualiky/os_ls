@@ -1,4 +1,4 @@
-# Labsheet 2: Using the nano editor in command line
+# Labsheet 3: Using the nano editor in command line
 
 ___
 
