@@ -1,4 +1,4 @@
-# Labsheet 4: Using the visual editor in UNIX
+# Labsheet 5-6: Using the visual editor in UNIX
 
 ___
 
