@@ -219,9 +219,3 @@ The shell is an interface that can be used to communicate with the user and kern
 ## Observation and Conclusion
 
 Hence, we learned the basics of shell scripting in zsh/bash in UNIX systems.
-
-    
-
-
-
-    
